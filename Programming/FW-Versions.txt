@@ -1,3 +1,8 @@
-0.9.2 - Fred (Chirp) reports he has seen this in one of his radios
-0.9.4 - standard as of 2025?
+* have image for
+
+0.9.2* - Fred (Chirp) reports he has seen this in one of his radios, have BIN file
+0.9.4  - M11-22, standard as of 2025?
+0.9.5* - M11-16? have BIN file
 1.0 - reported in FCC docs, but has not been confirmed in the wild
+1.0.3* - M11-16, have BIN file
+
