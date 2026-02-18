@@ -212,10 +212,9 @@ FCC report review:<br>
 	
 	
 	
-	
-	
-	
-	<tr><th>#####</th><th >#####</th></tr>
+	<tr><td>#####</td><td>#####</td></tr>
+
+<tr>
   <td>
   <a href="https://youtu.be/o2LUXxH6YpM">Video #2<Br>2026-02-10</a></td>
 <td>
