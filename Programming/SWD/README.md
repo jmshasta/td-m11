@@ -6,7 +6,4 @@ To connect SWD To the Honor MCU a segger J-link is used.
 
 two flash images saved from the MCU per the memory map  
 SaveBin c:\temp\flash0x41000000.bin 0x41000000 0xffff  //is 65535 bytes  
-SaveBin c:\temp\flash0x41010000.bin 0x41010000 0xcfff //is 53247 bytes  
-
-
-
+SaveBin c:\temp\flash0x41010000.bin 0x41010000 0x2cfff //is 184319 bytes
