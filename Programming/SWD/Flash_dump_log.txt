@@ -20,6 +20,6 @@ Cortex-M0 identified.
 J-Link>SaveBin c:\temp\flash0x41000000.bin 0x41000000 0xffff
 Opening binary file for writing... [c:\temp\flash.bin]
 Reading 65535 bytes from addr 0x41000000 into file...O.K.
-J-Link>SaveBin c:\temp\flash0x41010000.bin 0x41010000 0xcfff
-Opening binary file for writing... [c:\temp\flash2.bin]
-Reading 53247 bytes from addr 0x41010000 into file...O.K.
+J-Link>SaveBin c:\temp\flash0x41010000.bin 0x41010000 0x2cfff
+Opening binary file for writing... [c:\temp\flash3.bin]
+Reading 184319 bytes from addr 0x41010000 into file...O.K.
