@@ -6,5 +6,6 @@ To connect SWD To the Honor MCU a segger J-link is used. Starting the radio in '
 [Segger J-link edu Mini $70](https://www.segger.com/products/debug-probes/j-link/models/j-link-edu-mini/)  
 
 two flash images saved from the MCU per the memory map  
-[flash0x41000000.bin](https://github.com/voltcraftmakes/td-m11/raw/refs/heads/main/Programming/SWD/flash0x41000000.bin) 0x41000000 0xffff  //is 65535 bytes  
-[flash0x41010000.bin](https://github.com/voltcraftmakes/td-m11/raw/refs/heads/main/Programming/SWD/flash0x41010000.bin) 0x41010000 0x2cfff //is 184319 bytes
+[flash0x41000000.bin](https://github.com/voltcraftmakes/td-m11/raw/refs/heads/main/Programming/SWD/flash0x41000000.bin) 0x41000000 0xffff  //is 65,535 bytes  
+[flash0x41010000.bin](https://github.com/voltcraftmakes/td-m11/raw/refs/heads/main/Programming/SWD/flash0x41010000.bin) 0x41010000 0x2cfff //is 184,319 bytes  
+Combined, these become [flash.bin](https://github.com/voltcraftmakes/td-m11/raw/refs/heads/main/Programming/SWD/flash.bin) //is 249,854 bytes
